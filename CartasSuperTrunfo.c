@@ -14,8 +14,8 @@ int main() {
     float area1;                      // Área em km²
     float pib1;                       // PIB
     int pontosTuristicos1;            // Pontos turísticos
-    float densidadePopulacional1;
-    float pibPerCapita1;
+    float densidadePopulacional1;     // Para dividir a população pela area 
+    float pibPerCapita1;              // Para dividir o pib pela população 
 
     /* ======================================================
        DECLARAÇÃO DAS VARIÁVEIS DA CARTA 2
